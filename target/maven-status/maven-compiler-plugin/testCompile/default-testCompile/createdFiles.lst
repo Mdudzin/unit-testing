@@ -1,0 +1,9 @@
+pl\dudzin\testing\account\AddressTest.class
+pl\dudzin\testing\account\AccountTest.class
+pl\dudzin\testing\account\AccountServiceTest.class
+pl\dudzin\testing\account\AccountRepositoryStub.class
+pl\dudzin\testing\cart\CartTest.class
+pl\dudzin\testing\order\OrderBackupTest.class
+pl\dudzin\testing\order\OrderTest.class
+pl\dudzin\testing\order\OrderBackupExecutionOrderTest.class
+pl\dudzin\testing\meal\MealTest.class

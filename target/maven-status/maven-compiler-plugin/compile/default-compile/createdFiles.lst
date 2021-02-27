@@ -1,0 +1,11 @@
+pl\dudzin\testing\account\Account.class
+pl\dudzin\testing\order\Order.class
+pl\dudzin\testing\extensions\BeforeAfterExtension.class
+pl\dudzin\testing\extensions\IAExceptionIgnoreExtension.class
+pl\dudzin\testing\order\OrderStatus.class
+pl\dudzin\testing\account\Address.class
+pl\dudzin\testing\order\OrderBackup.class
+pl\dudzin\testing\account\AccountRepository.class
+pl\dudzin\testing\account\AccountService.class
+pl\dudzin\testing\meal\Meal.class
+pl\dudzin\testing\cart\Cart.class
